@@ -1,6 +1,9 @@
 # flutter_devcamp_ui_project
+![image](https://github.com/user-attachments/assets/d0678f4d-9a85-48a2-bde0-3d4d9ce81e25)
+
 
 A new Flutter project.
+DevCamp2024 - Session 2 - Assignment 1
 
 ## Getting Started
 
